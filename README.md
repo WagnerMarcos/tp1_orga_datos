@@ -7,6 +7,14 @@
 	
 Cantidad de damage level por geo_level filtrando por cantidad de muestras en cada zona: Información relevante en geo level 1 donde se puede sacar que algunas tienen mayor tendencia a un nivel de daño. Informacion solo segun geo level 2 y 3 la veo descartable.
 
+violinplot de daños por edad de los edificios
+
+radar chart de superestructuras para edificios de menos de 15 años para daño alto y bajo
+
+radar chart de superestructuras en ciertos geo_level_1 para daño alto y bajo
+
+radar chart de usos secundarios para daño alto y bajo
+
 #### Yago
 
 barplot basico de casos por damage_grade
